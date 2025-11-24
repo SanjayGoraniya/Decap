@@ -3,6 +3,8 @@ backend:
   repo: SanjayGoraniya/Decap
   branch: main # or master
   open_authoring: true
+  base_url: https://decap-github-proxy.netlify.app
+  auth_endpoint: oauth/authorize
 
 publish_mode: editorial_workflow
 media_folder: "static/uploads" # where uploaded files go
