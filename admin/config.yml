@@ -4,6 +4,7 @@ backend:
   branch: main # or master
   open_authoring: true
 
+publish_mode: editorial_workflow
 media_folder: "static/uploads" # where uploaded files go
 public_folder: "/uploads"
 
